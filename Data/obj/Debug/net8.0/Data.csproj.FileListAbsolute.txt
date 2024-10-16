@@ -1,0 +1,15 @@
+/media/git/quanta/Data/bin/Debug/net8.0/Data.deps.json
+/media/git/quanta/Data/bin/Debug/net8.0/Data.runtimeconfig.json
+/media/git/quanta/Data/bin/Debug/net8.0/Data.dll
+/media/git/quanta/Data/bin/Debug/net8.0/Data.pdb
+/media/git/quanta/Data/obj/Debug/net8.0/Data.csproj.AssemblyReference.cache
+/media/git/quanta/Data/obj/Debug/net8.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+/media/git/quanta/Data/obj/Debug/net8.0/Data.AssemblyInfoInputs.cache
+/media/git/quanta/Data/obj/Debug/net8.0/Data.AssemblyInfo.cs
+/media/git/quanta/Data/obj/Debug/net8.0/Data.csproj.CoreCompileInputs.cache
+/media/git/quanta/Data/obj/Debug/net8.0/Data.sourcelink.json
+/media/git/quanta/Data/obj/Debug/net8.0/Data.dll
+/media/git/quanta/Data/obj/Debug/net8.0/refint/Data.dll
+/media/git/quanta/Data/obj/Debug/net8.0/Data.pdb
+/media/git/quanta/Data/obj/Debug/net8.0/Data.genruntimeconfig.cache
+/media/git/quanta/Data/obj/Debug/net8.0/ref/Data.dll
